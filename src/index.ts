@@ -38,6 +38,7 @@ export * from "./components/PlanIndicator"
 export * from "./components/stack"
 export * from "./components/cluster"
 export * from "./components/icons"
+export * from "./components/Placeholder"
 
 export { default as breakpoints } from "./theme/breakpoints"
 export { default as colors } from "./theme/colors"
