@@ -2,6 +2,61 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.181](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.180...v0.0.181) (2020-07-17)
+
+### [0.0.180](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.179...v0.0.180) (2020-07-17)
+
+
+### Bug Fixes
+
+* top-level export for Card component ([#359](https://github.com/gatsby-inc/gatsby-interface/issues/359)) ([3e7175c](https://github.com/gatsby-inc/gatsby-interface/commit/3e7175c05a58baa1a9af9d0bc92153cd0178b523))
+
+### [0.0.179](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.178...v0.0.179) (2020-07-17)
+
+
+### Features
+
+* **Card:** initial prototype for Card component ([#357](https://github.com/gatsby-inc/gatsby-interface/issues/357)) ([1603226](https://github.com/gatsby-inc/gatsby-interface/commit/16032265b4a3fce76093efdd863b741ce05a6571))
+
+### [0.0.178](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.177...v0.0.178) (2020-07-13)
+
+
+### Features
+
+* **icons:** added BitbucketIcon, GitHubIcon and GitLabIcon ([#353](https://github.com/gatsby-inc/gatsby-interface/issues/353)) ([c676099](https://github.com/gatsby-inc/gatsby-interface/commit/c676099fd0764fcd38af3f1af6b5c629dd0f5baf))
+
+### [0.0.177](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.176...v0.0.177) (2020-07-08)
+
+
+### Bug Fixes
+
+* **Combobox:** force type="button" on ComboboxButton ([#352](https://github.com/gatsby-inc/gatsby-interface/issues/352)) ([3efe887](https://github.com/gatsby-inc/gatsby-interface/commit/3efe8875e3d4f9122d2f515c5de9e150aa9e6ce1))
+
+### [0.0.176](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.175...v0.0.176) (2020-07-08)
+
+
+### Features
+
+* **Combobox:** support toggle button ([#347](https://github.com/gatsby-inc/gatsby-interface/issues/347)) ([e815dcb](https://github.com/gatsby-inc/gatsby-interface/commit/e815dcbad59bff7df79e451441cd4dfdd1c1e5ec))
+
+### [0.0.175](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.174...v0.0.175) (2020-06-30)
+
+
+### Bug Fixes
+
+* **DropdownMenu:** style DropdownMenuLink and make it forward refs ([#348](https://github.com/gatsby-inc/gatsby-interface/issues/348)) ([33a6146](https://github.com/gatsby-inc/gatsby-interface/commit/33a614691b953559a5d6411a16d43370e9f088da))
+
+### [0.0.174](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.173...v0.0.174) (2020-06-30)
+
+### [0.0.173](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.172...v0.0.173) (2020-06-29)
+
+### [0.0.172](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.171...v0.0.172) (2020-06-29)
+
+
+### Features
+
+* Revised forms ([#340](https://github.com/gatsby-inc/gatsby-interface/issues/340)) ([4f5d18f](https://github.com/gatsby-inc/gatsby-interface/commit/4f5d18f0a9faafa9fd15c493c91343e3ff4d8155))
+
 ### [0.0.171](https://github.com/gatsby-inc/gatsby-interface/compare/v0.0.170...v0.0.171) (2020-06-23)
 
 
